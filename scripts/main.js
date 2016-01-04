@@ -9,7 +9,7 @@ requirejs.config({
         /* business logic and application */
         app: 'app',
         loadAsync: 'load.async',
-        producsPage: 'products.page'
+        productsPage: 'products.page'
     }
 });
 
